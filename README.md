@@ -1,0 +1,1 @@
+Recreate the Google homepage with HTML and CSS as part of The Odin Project's Web Dev 101 curriculum (https://www.theodinproject.com/courses/web-development-101/lessons/html-css).
